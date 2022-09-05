@@ -1,0 +1,1 @@
+ export const cartItems=[{ productId: 1 }, { productId: 2 }];
